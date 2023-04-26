@@ -1,0 +1,3 @@
+﻿  Roster.cpp
+C:\Users\14694\source\repos\ClassRoster\ClassRoster\Roster.cpp(10,14): warning C4101: 'classRosterArray': unreferenced local variable
+  ClassRoster.vcxproj -> C:\Users\14694\source\repos\ClassRoster\x64\Debug\ClassRoster.exe
